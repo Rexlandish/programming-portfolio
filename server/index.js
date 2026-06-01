@@ -650,7 +650,7 @@ var server_manifest_default = {
 //#endregion
 //#region \0virtual:react-router/server-build
 var assetsBuildDirectory = "build\\client";
-var basename = "/";
+var basename = "/programming-portfolio";
 var future = {
 	"unstable_optimizeDeps": false,
 	"v8_passThroughRequests": false,
