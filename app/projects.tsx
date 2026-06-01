@@ -12,7 +12,6 @@ import c2c from "./images/preview/c2c.png";
 import parrykeet from "./images/preview/parrykeet.gif";
 
 import { Link } from "react-router";
-import { subtle } from "crypto";
 
 export function Projects() {
     return (
