@@ -124,40 +124,40 @@ var ErrorBoundary = UNSAFE_withErrorBoundaryProps(function ErrorBoundary({ error
 });
 //#endregion
 //#region app/images/preview/jeff.png
-var jeff_default$1 = "/assets/jeff-BfpJCRbe.png";
+var jeff_default$1 = "/programming-portfolio/assets/jeff-BfpJCRbe.png";
 //#endregion
 //#region app/images/preview/compression.gif
-var compression_default = "/assets/compression-CXxobP51.gif";
+var compression_default = "/programming-portfolio/assets/compression-CXxobP51.gif";
 //#endregion
 //#region app/images/preview/music.gif
-var music_default = "/assets/music-HwTSdJps.gif";
+var music_default = "/programming-portfolio/assets/music-HwTSdJps.gif";
 //#endregion
 //#region app/images/preview/gravity.gif
-var gravity_default = "/assets/gravity-CPUG_PKL.gif";
+var gravity_default = "/programming-portfolio/assets/gravity-CPUG_PKL.gif";
 //#endregion
 //#region app/images/preview/obstreperous.gif
-var obstreperous_default = "/assets/obstreperous-CTRbFUx5.gif";
+var obstreperous_default = "/programming-portfolio/assets/obstreperous-CTRbFUx5.gif";
 //#endregion
 //#region app/images/preview/fourier.gif
-var fourier_default = "/assets/fourier-BX0UKuoO.gif";
+var fourier_default = "/programming-portfolio/assets/fourier-BX0UKuoO.gif";
 //#endregion
 //#region app/images/preview/chess.gif
-var chess_default = "/assets/chess-D4qeoCYO.gif";
+var chess_default = "/programming-portfolio/assets/chess-D4qeoCYO.gif";
 //#endregion
 //#region app/images/preview/musicvis.gif
-var musicvis_default = "/assets/musicvis-COEOcxSZ.gif";
+var musicvis_default = "/programming-portfolio/assets/musicvis-COEOcxSZ.gif";
 //#endregion
 //#region app/images/preview/rhythm.gif
-var rhythm_default = "/assets/rhythm-Cizcy-1-.gif";
+var rhythm_default = "/programming-portfolio/assets/rhythm-Cizcy-1-.gif";
 //#endregion
 //#region app/images/preview/dither-block.png
-var dither_block_default = "/assets/dither-block-BMwyMeYo.png";
+var dither_block_default = "/programming-portfolio/assets/dither-block-BMwyMeYo.png";
 //#endregion
 //#region app/images/preview/c2c.png
-var c2c_default = "/assets/c2c-DpM_iTHL.png";
+var c2c_default = "/programming-portfolio/assets/c2c-DpM_iTHL.png";
 //#endregion
 //#region app/images/preview/parrykeet.gif
-var parrykeet_default = "/assets/parrykeet-D_TiqjN7.gif";
+var parrykeet_default = "/programming-portfolio/assets/parrykeet-D_TiqjN7.gif";
 //#endregion
 //#region app/projects.tsx
 function Projects() {
@@ -391,9 +391,9 @@ var home_exports = /* @__PURE__ */ __exportAll({
 	meta: () => meta
 });
 function meta({}) {
-	return [{ title: "New React Router App" }, {
+	return [{ title: "Home | Rexlandish" }, {
 		name: "description",
-		content: "Welcome to React Router!"
+		content: "Portfolio homepage"
 	}];
 }
 var home_default = UNSAFE_withComponentProps(function Home() {
@@ -524,8 +524,8 @@ function Socials() {
 //#region \0virtual:react-router/server-manifest
 var server_manifest_default = {
 	"entry": {
-		"module": "/assets/entry.client-BwE86F7n.js",
-		"imports": ["/assets/jsx-runtime-CpzmxEyh.js"],
+		"module": "/programming-portfolioassets/entry.client-PKB05B-Z.js",
+		"imports": ["/programming-portfolioassets/jsx-runtime-BtYww0gW.js"],
 		"css": []
 	},
 	"routes": {
@@ -542,9 +542,9 @@ var server_manifest_default = {
 			"hasClientMiddleware": false,
 			"hasDefaultExport": true,
 			"hasErrorBoundary": true,
-			"module": "/assets/root-4PBqGlvn.js",
-			"imports": ["/assets/jsx-runtime-CpzmxEyh.js"],
-			"css": ["/assets/root-Bm4bgI33.css"],
+			"module": "/programming-portfolioassets/root-BJxod4GZ.js",
+			"imports": ["/programming-portfolioassets/jsx-runtime-BtYww0gW.js"],
+			"css": ["/programming-portfolioassets/root-Bm4bgI33.css"],
 			"clientActionModule": void 0,
 			"clientLoaderModule": void 0,
 			"clientMiddlewareModule": void 0,
@@ -563,8 +563,8 @@ var server_manifest_default = {
 			"hasClientMiddleware": false,
 			"hasDefaultExport": true,
 			"hasErrorBoundary": false,
-			"module": "/assets/home-dVK2idDI.js",
-			"imports": ["/assets/jsx-runtime-CpzmxEyh.js"],
+			"module": "/programming-portfolioassets/home-CtHAiyWO.js",
+			"imports": ["/programming-portfolioassets/jsx-runtime-BtYww0gW.js"],
 			"css": [],
 			"clientActionModule": void 0,
 			"clientLoaderModule": void 0,
@@ -584,11 +584,11 @@ var server_manifest_default = {
 			"hasClientMiddleware": false,
 			"hasDefaultExport": true,
 			"hasErrorBoundary": false,
-			"module": "/assets/project-t-_ZJage.js",
+			"module": "/programming-portfolioassets/project-CbUwAn5W.js",
 			"imports": [
-				"/assets/jsx-runtime-CpzmxEyh.js",
-				"/assets/jeff-DVvFE8aa.js",
-				"/assets/jeff-DLTHCR0-.js"
+				"/programming-portfolioassets/jsx-runtime-BtYww0gW.js",
+				"/programming-portfolioassets/jeff-BsoS8Fg3.js",
+				"/programming-portfolioassets/jeff-COej18lt.js"
 			],
 			"css": [],
 			"clientActionModule": void 0,
@@ -609,8 +609,8 @@ var server_manifest_default = {
 			"hasClientMiddleware": false,
 			"hasDefaultExport": true,
 			"hasErrorBoundary": false,
-			"module": "/assets/header-C7pWXwy0.js",
-			"imports": ["/assets/jsx-runtime-CpzmxEyh.js"],
+			"module": "/programming-portfolioassets/header-BHJ_88Z9.js",
+			"imports": ["/programming-portfolioassets/jsx-runtime-BtYww0gW.js"],
 			"css": [],
 			"clientActionModule": void 0,
 			"clientLoaderModule": void 0,
@@ -630,11 +630,11 @@ var server_manifest_default = {
 			"hasClientMiddleware": false,
 			"hasDefaultExport": true,
 			"hasErrorBoundary": false,
-			"module": "/assets/jeff-qQJsiwuN.js",
+			"module": "/programming-portfolioassets/jeff-QYZP8DKz.js",
 			"imports": [
-				"/assets/jeff-DVvFE8aa.js",
-				"/assets/jsx-runtime-CpzmxEyh.js",
-				"/assets/jeff-DLTHCR0-.js"
+				"/programming-portfolioassets/jeff-BsoS8Fg3.js",
+				"/programming-portfolioassets/jsx-runtime-BtYww0gW.js",
+				"/programming-portfolioassets/jeff-COej18lt.js"
 			],
 			"css": [],
 			"clientActionModule": void 0,
@@ -643,8 +643,8 @@ var server_manifest_default = {
 			"hydrateFallbackModule": void 0
 		}
 	},
-	"url": "/assets/manifest-274ef88e.js",
-	"version": "274ef88e",
+	"url": "/programming-portfolioassets/manifest-7e6cc221.js",
+	"version": "7e6cc221",
 	"sri": void 0
 };
 //#endregion
@@ -667,7 +667,7 @@ var routeDiscovery = {
 	"mode": "lazy",
 	"manifestPath": "/__manifest"
 };
-var publicPath = "/";
+var publicPath = "/programming-portfolio";
 var entry = { module: entry_server_node_exports };
 var routes = {
 	"root": {
