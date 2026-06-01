@@ -1,7 +1,7 @@
 {
     "name": "programming-portfolio",
-    "homepage": "https://rexlandish.github.io/programming-portfolio",
-    "private": true,
+    "homepage": "https://rexlandish.github.io/programming-portfolio/",
+    "private": false,
     "type": "module",
     "scripts": {
         "predeploy": "npm run build",
