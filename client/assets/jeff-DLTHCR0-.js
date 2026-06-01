@@ -1,0 +1,1 @@
+var e=`/assets/jeff-BfpJCRbe.png`;export{e as t};
